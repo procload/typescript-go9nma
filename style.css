@@ -1,0 +1,9 @@
+.container {
+  background-color: var(--fill-color);
+  color: var(--neutral-foreground-rest);
+  display: grid;
+  grid-template-columns: auto;
+  justify-content: start;
+  gap: 4px;
+  padding: 12px;
+}
